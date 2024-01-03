@@ -74,7 +74,7 @@
 
 ###
 
-<p align="left">For a quick response, DM me on <a href="https://www.instagram.com/itsjehad007/"> </a> or <a href="https://www.linkedin.com/in/jehad-mohammed-069b162a5/">Linkedin</a>.</p>
+<p align="left">For a quick response, DM me on <a href="https://www.instagram.com/itsjehad007/">instagram</a> or <a href="https://www.linkedin.com/in/jehad-mohammed-069b162a5/">Linkedin</a>.</p>
 
 ###
 
