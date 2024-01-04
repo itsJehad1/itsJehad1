@@ -42,15 +42,15 @@
 
 ###
 
-<p align="left">• I'm engaged</p>
+<p align="left">  • I'm currently building big projects.</p>
 
 ###
 
-<p align="left">• I'm exploring different tools and libraries to enhance my skill set.</p>
+<p align="left">  • I'm exploring different tools and libraries to enhance my skill set.</p>
 
 ###
 
-<p align="left">• I'm an early riser, always driven and constantly learning in the tech world.</p>
+<p align="left">  • I'm an early riser, always driven and constantly learning in the tech world.</p>
 
 ###
 
